@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @badstoms
+- 👀 I’m interested in C++ and software engineering
